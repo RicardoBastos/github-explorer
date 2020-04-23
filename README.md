@@ -54,9 +54,6 @@ $ git clone https://github.com/ricadobastos/github-explorer.git
 # Ir para pasta rocket-box
 $ cd github-explorer
 
-# ir para pasta de backend
-$ cd frontend
-
 # Instalar as dependências
 $ yarn
 
