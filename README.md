@@ -45,8 +45,6 @@ IDE
 Para clonar e rodar essa aplicação você precisa ter o  [Git](https://git-scm.com), [Node.js v10.16][nodejs] ou higher + [Yarn v1.13][yarn] ou superior instalado em seu computador.
 
 
-## Backend
-
 ```bash
 # Clone esse repositório
 $ git clone https://github.com/ricadobastos/github-explorer.git
