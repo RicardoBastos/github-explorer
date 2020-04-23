@@ -1,7 +1,7 @@
 <br>
 
 <p align="center">
-    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/logo.svg" />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/github-explorer/blob/master/src/assets/logo.svg" />
 </p>
 
 <br>
@@ -13,37 +13,29 @@
 
 
 <h1 align="center">
-    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox.gif" />
+    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/github-explorer/github-explorer.gif" />
 </h1>
 
 <br>
 
-<h1 align="center">
-    <img alt="Rocketbox" src="https://github.com/RicardoBastos/docs/blob/master/imagens/rocketbox/rocketbox-mobile.png" />
-</h1>
 
 
 ## :rocket: Tecnologias
 
 Esse projeto foi desenvolvido com:
 
-- [Node.js][nodejs]
 - [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [Mongo](http://www.mongodb.com)
 
 
 Packages
 
-- Express
 - Axios
-- Date-fns
-- React-dropzone
-- React-icons
-- Socket-io
-- Multer
-- Mongoose
-- Cors
+- React Hooks
+- Api Github
+- Typescript
+- Template React(create-react-app primeiro-projeto-react --template=typescript)
+
+
 
 IDE
 - [VS Code][vc] 
@@ -57,25 +49,10 @@ Para clonar e rodar essa aplicação você precisa ter o  [Git](https://git-scm.
 
 ```bash
 # Clone esse repositório
-$ git clone https://github.com/ricadobastos/rocket-box.git
+$ git clone https://github.com/ricadobastos/github-explorer.git
 
 # Ir para pasta rocket-box
-$ cd rocket-box
-
-
-## Backend
-
-# ir para pasta de backend
-$ cd backend
-
-# Instalar as dependências
-$ yarn
-
-# Iniciar o servidor backend
-$ yarn dev
-
-
-## Frontend
+$ cd github-explorer
 
 # ir para pasta de backend
 $ cd frontend
@@ -86,17 +63,6 @@ $ yarn
 # Iniciar o servidor frontend
 $ yarn start
 
-
-## Mobile
-
-# ir para pasta de backend
-$ cd mobile
-
-# Instalar as dependências
-$ yarn
-
-# Iniciar o servidor frontend
-$ react-native run-ios ou react-native run-android
 ```
 
 
